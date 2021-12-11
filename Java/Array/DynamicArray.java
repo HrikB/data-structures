@@ -1,4 +1,4 @@
-package Java;
+package Java.Array;
 public class DynamicArray<T> implements Iterable<T> {
     private T[] arr;
     private int len = 0;
